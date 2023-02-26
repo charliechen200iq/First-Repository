@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class IntTest here.
+ * this has inter
  *
  * @author Charlie Chen
  * @version 09/02/2023
